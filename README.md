@@ -497,3 +497,4 @@ See the following Wiki pages:
 [ls-docker]: https://www.elastic.co/guide/en/logstash/current/docker-config.html
 
 [upgrade]: https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-upgrade.html
+# docker-elk
